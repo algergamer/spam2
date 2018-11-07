@@ -30,4 +30,4 @@ if(!message.member.hasPermission('ADMINISTRATOR')) return message.channel.send('
   }
  });
 
- "MzM4ODM4ODU2NjM4MTM2MzMx.DsTceQ.lieYoAs1FDUUyGu5x53aWU2JIgk"
+ 
